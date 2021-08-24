@@ -1,0 +1,2 @@
+# EGE
+Defi platformu
